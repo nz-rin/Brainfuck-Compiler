@@ -14,7 +14,7 @@
 ## Usage
 - You can also use make to run the compiler through make
 ``` bash
-build-run args="[bf source code]"
+make build-run args="[bf source code]"
 ```
 or directly use the bfc executable.
 ``` bash
