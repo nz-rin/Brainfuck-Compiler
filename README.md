@@ -34,7 +34,7 @@ or
 ``` bash
 bfc "HelloWorld.bf"
 nasm -f elf64 main.asm -o main.o
-ld main.o - main
+ld main.o -o main
 chmod +x main
 ./main
 ```
