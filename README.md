@@ -1,6 +1,6 @@
 # BrainFuck Compiler in C++
 
-## Dependancy
+## Dependency
 - This Compiler for brainfuck requires the NASM Assembler to assemble the executable and ld to link the main.o into a valid elf.
 - This Project is built using make.
 
