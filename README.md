@@ -18,7 +18,7 @@ make build-run args="[bf source code]"
 ```
 or directly use the bfc executable.
 ``` bash
-bfc [bf source code].
+bfc [bf source code]
 ```
 - The bfc executable can be freely moved and used anywhere since it does require anything after been compiled.
 - The bfc will produce a simple NASM main.asm file from a single bf source file, you will need NASM and ld to turn it into a valid executable.
