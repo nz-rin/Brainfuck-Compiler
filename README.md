@@ -38,4 +38,7 @@ ld main.o -o main
 chmod +x main
 ./main
 ```
-once run it should output Hello World!
+once run it should output
+``` bash
+Hello World!
+```
